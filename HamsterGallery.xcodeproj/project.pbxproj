@@ -14,6 +14,7 @@
 		CEB8B81D2B614EF400A85C09 /* HamsterGalleryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB8B81C2B614EF400A85C09 /* HamsterGalleryTests.swift */; };
 		CEB8B8272B614EF400A85C09 /* HamsterGalleryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB8B8262B614EF400A85C09 /* HamsterGalleryUITests.swift */; };
 		CEB8B8292B614EF400A85C09 /* HamsterGalleryUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB8B8282B614EF400A85C09 /* HamsterGalleryUITestsLaunchTests.swift */; };
+		CEB8B8362B61541000A85C09 /* imagesDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB8B8352B61541000A85C09 /* imagesDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		CEB8B8222B614EF400A85C09 /* HamsterGalleryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HamsterGalleryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEB8B8262B614EF400A85C09 /* HamsterGalleryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HamsterGalleryUITests.swift; sourceTree = "<group>"; };
 		CEB8B8282B614EF400A85C09 /* HamsterGalleryUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HamsterGalleryUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CEB8B8352B61541000A85C09 /* imagesDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imagesDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				CEB8B80D2B614EF100A85C09 /* ContentView.swift */,
 				CEB8B80F2B614EF300A85C09 /* Assets.xcassets */,
 				CEB8B8112B614EF300A85C09 /* Preview Content */,
+				CEB8B8352B61541000A85C09 /* imagesDetail.swift */,
 			);
 			path = HamsterGallery;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEB8B8362B61541000A85C09 /* imagesDetail.swift in Sources */,
 				CEB8B80E2B614EF100A85C09 /* ContentView.swift in Sources */,
 				CEB8B80C2B614EF100A85C09 /* HamsterGalleryApp.swift in Sources */,
 			);
